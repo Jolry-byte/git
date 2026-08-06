@@ -37,3 +37,6 @@ __pycache__/
 .venv/
 venv/
 .cache/
+
+# ===== Agent workspace data (do not commit) =====
+.workbuddy/
